@@ -19,6 +19,7 @@ main {
 h1 {
     margin: 0;
     padding: 25px;
+    font-family: 'Pacifico', cursive;
 }
 
 /* Controls and Message Styles */
@@ -31,6 +32,7 @@ h1 {
     color: darkorange;
     font-size: 1.5em;
     font-weight: bold;
+    font-family: 'Pacifico', cursive;
 }
 
 button {
@@ -42,6 +44,7 @@ button {
 #flip,
 #roll {
     background: linear-gradient(to bottom left, lightblue, white);
+    font-family: 'Pacifico', cursive;
 }
 
 #flip:hover,
@@ -51,6 +54,7 @@ button {
 
 #clear {
     background: linear-gradient(to bottom left, orange, white);
+    font-family: 'Pacifico', cursive;
 }
 
 #clear:hover {
@@ -68,4 +72,7 @@ td {
 td {
     padding: 5px;
     font-weight: bold;
+}
+h2{
+    font-family: 'Pacifico', cursive;
 }
